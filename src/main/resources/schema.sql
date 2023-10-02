@@ -1,0 +1,11 @@
+drop table test_source;
+CREATE TABLE TEST_SOURCE(PARENT_REFERENCE
+varchar(50) PRIMARY KEY,
+
+ACCOUNTING_COMPANY
+varchar(20),
+
+MUREX_EX_RATE
+decimal(28,
+NDF_TYPE
+8));
